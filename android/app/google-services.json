@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "248829825694",
+    "project_id": "canteen-e3751",
+    "storage_bucket": "canteen-e3751.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248829825694:android:94e0036c814b30cdf9a18f",
+        "android_client_info": {
+          "package_name": "com.example.stguard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248829825694-72frcpr9m3vhc5s1hflfgjb6mpnh715f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNTCFXEY2qPXI_DaVVUdfbB7XQPddMle0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248829825694-72frcpr9m3vhc5s1hflfgjb6mpnh715f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "248829825694-6316qbed6bd1c34qqmt9p72qulq9md59.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.canteen2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
